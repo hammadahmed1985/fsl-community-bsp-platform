@@ -7,6 +7,7 @@
   <remote fetch="git://github.com/Freescale" name="freescale"/>
   <remote fetch="git://git.openembedded.org" name="oe"/>
   <remote fetch="git://github.com/hammadahmed1985" name="ir" />
+  <remote fetch="git://github.com/meta-qt5" name="meta-qt5" />
 
   <project remote="yocto" revision="daisy" name="poky" path="sources/poky"/>
   <project remote="yocto" revision="daisy" name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
@@ -21,5 +22,6 @@
   <project remote="ir" revision="usb-injector" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project remote="freescale" revision="daisy" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
   <project remote="ir" revision="usb-injector" name="meta-ir-extras" path="sources/meta-ir-extras"/>
+  <project remote="meta-qt5" revision="daisy" name="meta-qt5" path="sources/meta-qt5" />
 
 </manifest>
