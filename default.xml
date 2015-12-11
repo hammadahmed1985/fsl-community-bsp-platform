@@ -21,7 +21,7 @@
 
   <project remote="ir" revision="usb-injector" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project remote="freescale" revision="daisy" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
-  <project remote="ir" revision="usb-injector" name="meta-ir-extras" path="sources/meta-ir-extras"/>
+  <project remote="ir" revision="yas_demo" name="meta-ir-extras" path="sources/meta-ir-extras"/>
   <project remote="meta-qt5" revision="daisy" name="meta-qt5" path="sources/meta-qt5" />
 
 </manifest>
